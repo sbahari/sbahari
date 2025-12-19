@@ -11,7 +11,7 @@ I'm a **Site Reliability Engineer (SRE)** passionate about building reliable, sc
 - **Databases:** MySQL, PostgreSQL
 - **Cloud & Orchestration:** Kubernetes
 - **Monitoring & Observability:** Prometheus, Grafana
-- **CI/CD & Automation:** Jenkins
+- **CI/CD & Automation:** Jenkins, Github Action
 
 ## 🔧 What I Do
 - Design, deploy, and maintain high-availability infrastructure.
